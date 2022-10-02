@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Universe-Adult-Family-Home/static/css/main.e0ac8933.css",
+    "main.js": "/Universe-Adult-Family-Home/static/js/main.8afead94.js",
+    "static/media/sman.jpg": "/Universe-Adult-Family-Home/static/media/sman.7580fdc8e6bb03519645.jpg",
+    "static/media/CareHero.jpg": "/Universe-Adult-Family-Home/static/media/CareHero.82314b68f88cb573be01.jpg",
+    "static/media/mission2.jpg": "/Universe-Adult-Family-Home/static/media/mission2.61d070c514180f92ea0d.jpg",
+    "static/media/logo.png": "/Universe-Adult-Family-Home/static/media/logo.07f4d13c773f73439e6e.png",
+    "static/media/lovvc.png": "/Universe-Adult-Family-Home/static/media/lovvc.f0f4ce0f7a28bb6f2b80.png",
+    "index.html": "/Universe-Adult-Family-Home/index.html",
+    "main.e0ac8933.css.map": "/Universe-Adult-Family-Home/static/css/main.e0ac8933.css.map",
+    "main.8afead94.js.map": "/Universe-Adult-Family-Home/static/js/main.8afead94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ac8933.css",
+    "static/js/main.8afead94.js"
+  ]
+}
