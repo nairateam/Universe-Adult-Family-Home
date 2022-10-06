@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Universe-Adult-Family-Home/static/css/main.4a6918a1.css",
-    "main.js": "/Universe-Adult-Family-Home/static/js/main.22ed55a4.js",
+    "main.js": "/Universe-Adult-Family-Home/static/js/main.c67cce96.js",
     "static/media/sman.jpg": "/Universe-Adult-Family-Home/static/media/sman.7580fdc8e6bb03519645.jpg",
     "static/media/CareHero.jpg": "/Universe-Adult-Family-Home/static/media/CareHero.82314b68f88cb573be01.jpg",
     "static/media/mission2.jpg": "/Universe-Adult-Family-Home/static/media/mission2.61d070c514180f92ea0d.jpg",
@@ -13,10 +13,10 @@
     "static/media/Vect.svg": "/Universe-Adult-Family-Home/static/media/Vect.14a472c7e8f559f530fd.svg",
     "static/media/nextbtn.svg": "/Universe-Adult-Family-Home/static/media/nextbtn.5cc52e1c07f35be986ca30dab2ef4f4e.svg",
     "main.4a6918a1.css.map": "/Universe-Adult-Family-Home/static/css/main.4a6918a1.css.map",
-    "main.22ed55a4.js.map": "/Universe-Adult-Family-Home/static/js/main.22ed55a4.js.map"
+    "main.c67cce96.js.map": "/Universe-Adult-Family-Home/static/js/main.c67cce96.js.map"
   },
   "entrypoints": [
     "static/css/main.4a6918a1.css",
-    "static/js/main.22ed55a4.js"
+    "static/js/main.c67cce96.js"
   ]
 }
