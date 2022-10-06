@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Universe-Adult-Family-Home/static/css/main.984f032c.css",
-    "main.js": "/Universe-Adult-Family-Home/static/js/main.aa84fed8.js",
+    "main.css": "/Universe-Adult-Family-Home/static/css/main.ff3e495b.css",
+    "main.js": "/Universe-Adult-Family-Home/static/js/main.d9e0782f.js",
     "static/media/sman.jpg": "/Universe-Adult-Family-Home/static/media/sman.7580fdc8e6bb03519645.jpg",
     "static/media/CareHero.jpg": "/Universe-Adult-Family-Home/static/media/CareHero.82314b68f88cb573be01.jpg",
     "static/media/mission2.jpg": "/Universe-Adult-Family-Home/static/media/mission2.61d070c514180f92ea0d.jpg",
@@ -12,11 +12,11 @@
     "static/media/backbtn.svg": "/Universe-Adult-Family-Home/static/media/backbtn.7b1566f0ade872667bbe284a39d4f311.svg",
     "static/media/Vect.svg": "/Universe-Adult-Family-Home/static/media/Vect.14a472c7e8f559f530fd.svg",
     "static/media/nextbtn.svg": "/Universe-Adult-Family-Home/static/media/nextbtn.5cc52e1c07f35be986ca30dab2ef4f4e.svg",
-    "main.984f032c.css.map": "/Universe-Adult-Family-Home/static/css/main.984f032c.css.map",
-    "main.aa84fed8.js.map": "/Universe-Adult-Family-Home/static/js/main.aa84fed8.js.map"
+    "main.ff3e495b.css.map": "/Universe-Adult-Family-Home/static/css/main.ff3e495b.css.map",
+    "main.d9e0782f.js.map": "/Universe-Adult-Family-Home/static/js/main.d9e0782f.js.map"
   },
   "entrypoints": [
-    "static/css/main.984f032c.css",
-    "static/js/main.aa84fed8.js"
+    "static/css/main.ff3e495b.css",
+    "static/js/main.d9e0782f.js"
   ]
 }
